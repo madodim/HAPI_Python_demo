@@ -3,9 +3,9 @@ You can find the available servers, a simple suggested demo and a more complex d
 To use the scripts, you need to install "hapiclient" and "hapiplot":
 
 pip install hapiclient --upgrade
-# or
+or
 pip install 'git+https://github.com/hapi-server/client-python' --upgrade
 
 python -m pip install hapiplot --upgrade
-# or
+or
 python -m pip install 'git+https://github.com/hapi-server/plot-python' --upgrade
